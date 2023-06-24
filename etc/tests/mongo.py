@@ -6,8 +6,8 @@ from pyarubaimc.alarms import *
 from pyarubaimc.device import *
 from pymongo import MongoClient
 
-imc_user = "admin"
-imc_passwd = "ilike2Rock@"
+imc_user = "stackstorm"
+imc_passwd = "WmJQ3pY25kKEXD72jJFbGOK6"
 imc_host = "10.132.0.160"
 varz = []
 data = {}
